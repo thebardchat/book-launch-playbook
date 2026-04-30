@@ -18,7 +18,7 @@ Quick responses for comments and DMs. Copy-paste from your phone.
 > It's on Amazon — paperback and ebook. Here's the link: [AMAZON LINK]
 
 ## When someone says "I could never write a book"
-> I dispatch dump trucks for a living. I recorded voice memos on my drive home and an AI helped me shape them. If I can do it, the barrier isn't talent. It's starting.
+> I run concrete dispatch for a living. I recorded voice memos on my drive home and an AI helped me shape them. If I can do it, the barrier isn't talent. It's starting.
 
 ## When someone asks for writing advice
 > Talk first. Write second. Record yourself saying the thing before you try to type the thing. Your speaking voice knows things your typing voice doesn't.

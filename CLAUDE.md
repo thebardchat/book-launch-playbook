@@ -61,7 +61,7 @@ book-launch-playbook/
 
 Marketing is not lying. Marketing is telling the truth loud enough for the right people to hear it.
 
-This book was written by a dump truck dispatcher on the drive home from work. That's not a gimmick. That's the story. The marketing IS the story. The story IS the marketing. The person who would love this book is the person who hears "a dispatcher in Alabama wrote a noir detective book on a Raspberry Pi with an AI" and says *tell me more*.
+This book was written by a concrete dispatch operator on the drive home from work. That's not a gimmick. That's the story. The marketing IS the story. The story IS the marketing. The person who would love this book is the person who hears "a dispatcher in Alabama wrote a noir detective book on a Raspberry Pi with an AI" and says *tell me more*.
 
 Find that person. Tell them.
 
@@ -77,6 +77,6 @@ That's the whole playbook.
 - Built on **Pi 5** (16GB, Pironman 5-MAX, RAID 1) — all local-first
 - **MEGA Crew**: 17 autonomous bots running 24/7, self-improving under the Constitution's 9 Pillars
 - **Gemini Strategist** (bot #17): Growth coach calling Gemini 2.5 Flash 4x/day
-- **42 MCP tools**, 4-node Ollama cluster, Weaviate RAG with 2,600+ knowledge objects
+- **42 MCP tools**, Weaviate + MCP stack, Weaviate RAG with 2,600+ knowledge objects
 - Book available on Amazon: https://www.amazon.com/Probably-Think-This-Book-About/dp/B0GT25R5FD
 - 55 promo images at `/mnt/shanebrain-raid/mega-dashboard/promo-images/`

@@ -11,7 +11,7 @@
 
 ## The Story
 
-A dump truck dispatcher in Hazel Green, Alabama recorded voice memos on his drive home from work. An AI shaped them into noir prose. A Raspberry Pi 5 in a closet ran the whole stack. The result was a book — **"You Probably Think This Book Is About You"** — 22 noir vignettes about ego, identity, and the people you drive past every day.
+A concrete dispatch operator in Hazel Green, Alabama recorded voice memos on his drive home from work. An AI shaped them into noir prose. A Raspberry Pi 5 in a closet ran the whole stack. The result was a book — **"You Probably Think This Book Is About You"** — 22 noir vignettes about ego, identity, and the people you drive past every day.
 
 Then came the hard part: getting anyone to read it.
 

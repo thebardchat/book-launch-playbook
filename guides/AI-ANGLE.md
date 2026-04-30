@@ -31,7 +31,7 @@ Pick one and stick with it across your campaign:
 > No. And AI couldn't have done it without me. That's the whole point.
 
 ### "Are you worried about AI replacing writers?"
-> I'm a dump truck dispatcher. I was never going to write a book the traditional way. AI didn't replace a writer — it created one. The question isn't whether AI replaces writers. The question is how many people have stories they'll never tell because they don't have access to the craft. Now they do.
+> I'm a concrete dispatch operator. I was never going to write a book the traditional way. AI didn't replace a writer — it created one. The question isn't whether AI replaces writers. The question is how many people have stories they'll never tell because they don't have access to the craft. Now they do.
 
 ### "How much did AI actually write?"
 > Every word started as my voice — recorded while driving, walking, living. AI shaped those words into prose. It's like asking how much of a building the architect designed vs. the builder built. Both. All of it. Together.
